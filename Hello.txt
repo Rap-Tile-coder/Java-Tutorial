@@ -1,0 +1,22 @@
+# Sun Microsystems released the Java programming language in 1995.
+# Java is known for being simple, portable, secure, and robust.
+
+**Refer code "Hello.java".
+
+A simple syntax piece of java program.
+
+1** Every line of code that runs in Java must be inside a class.
+    Java is case-sensitive : "class Hello" and "class hello" has different meaning.
+    NOTE : Naming Convention:: class name should always start with an uppercase first letter.
+
+2** JVM won't execute java code without main method.
+    The main() method is required.
+    The main() method should follow a signature "public static void"
+    public : access modifier, static : keyword, void : indicate return type
+    String[] args is a placeholder for information we want to pass into our program.
+
+3** System.out.println() :: println() method to print a line of text to the screen.
+
+print()::
+   There is also a print() method, which is similar to println().
+   The only difference is that it does not insert a new line at the end of the output
