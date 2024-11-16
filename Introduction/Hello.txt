@@ -20,3 +20,14 @@ A simple syntax piece of java program.
 print()::
    There is also a print() method, which is similar to println().
    The only difference is that it does not insert a new line at the end of the output
+
+
+
+Commenting Code - 
+        Writing code is an exciting process of instructing the computer to complete fantastic tasks.
+        Code is also read by people, and we want our intentions to be clear to humans just like we want our instructions to be clear to the computer.
+        We can also write  comments, notes to human readers of our code. These comments are not executed, so there’s no need for valid syntax within a comment.
+
+        Types of Commenting :
+            01. When comments are short we use the single-line syntax: //.
+            02. When comments are long we use the multi-line syntax: /* and */
