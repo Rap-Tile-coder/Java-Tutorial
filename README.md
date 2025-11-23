@@ -1,1 +1,1 @@
-Java for Developers Tutorial
+Java for Developers - Tutorial
